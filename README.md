@@ -5,6 +5,8 @@
 
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusMenDs&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusMenDs)](https://github.com/matheusMenDs/github-readme-stats)
+
 ## Tecnologias:
 
 <div style="display: inline_block"><br/>
@@ -21,3 +23,4 @@
 Dj e Produtor.
 
 Cusando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília(UCB).
+
