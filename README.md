@@ -2,6 +2,12 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/4oX9SBKPChFaZ1NvT3jli1)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/matheus-mendes-466195138/tracks)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mendaladj/)
+<a href = "mailto:matheusmendesoliveira10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div>
+<br><p><b>Visitors Count</b></p>  
+<p><img src="https://profile-counter.glitch.me/{mathesMenDs}/count.svg"/></p> 
+<br></div>
 
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusMenDs&show_icons=true&theme=highcontrast)
 
@@ -23,4 +29,3 @@
 Dj e Produtor.
 
 Cusando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília(UCB).
-
