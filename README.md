@@ -23,4 +23,4 @@
 ## Descrição: 
 
 Cursando Ciência da Computação (UCB) - Período: 3º Semestre.<br>
-Formado em Análise e Desenvolvimento de Sistemas (UCB): 02/2022 - 12/2023.
+Formado em Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
