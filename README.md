@@ -1,7 +1,4 @@
 ### Olá, Eu sou o Matheus Mendes 🎧
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/4oX9SBKPChFaZ1NvT3jli1)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/matheus-mendes-466195138/tracks)
-<a href = "mailto:matheusmendesoliveira10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
 <br><p><b>Visitors Count</b></p>  
