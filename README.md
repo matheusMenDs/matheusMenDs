@@ -1,5 +1,10 @@
 ### Olá, Eu sou o Matheus Mendes 🎧
 
+## Descrição: 
+
+Cursando Ciência da Computação (UCB) - 3º Semestre.<br>
+Formado em Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
+
 <div>
 <br><p><b>Visitors Count</b></p>  
 <p><img src="https://profile-counter.glitch.me/{mathesMenDs}/count.svg"/></p> 
@@ -19,8 +24,3 @@
     <img aline="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img aline="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
-## Descrição: 
-
-Cursando Ciência da Computação (UCB) - 3º Semestre.<br>
-Formado em Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
