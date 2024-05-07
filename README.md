@@ -5,15 +5,6 @@
 Cursando Ciência da Computação (UCB) - 3º Semestre.<br>
 Formado em Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
 
-<div>
-<br><p><b>Visitors Count</b></p>  
-<p><img src="https://profile-counter.glitch.me/{mathesMenDs}/count.svg"/></p> 
-<br></div>
-
-![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusMenDs&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusMenDs)](https://github.com/matheusMenDs/github-readme-stats)
-
 ## Tecnologias:
 
 <div style="display: inline_block"><br/>
@@ -24,3 +15,12 @@ Formado em Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
     <img aline="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img aline="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<div>
+<br><p><b>Visitors Count</b></p>  
+<p><img src="https://profile-counter.glitch.me/{mathesMenDs}/count.svg"/></p> 
+<br></div>
+
+![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusMenDs&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusMenDs)](https://github.com/matheusMenDs/github-readme-stats)
