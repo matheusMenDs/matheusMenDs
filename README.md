@@ -18,7 +18,7 @@ Formado em Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
     <img aline="center" alt="mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img aline="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-## IDE'S:
+## IDE's:
 
 <div style="display: inline_block"><br/>
     <img aline="center" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
