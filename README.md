@@ -4,6 +4,7 @@
 
 - Ciência da Computação (UCB) (Cursando) - 5º Semestre.<br>
 - Formação: Análise e Desenvolvimento de Sistemas (UCB) - 02/2022 - 12/2023.
+- Analista e Desenvolvedor de Sistemas | Desenvolvedor Front-end e Back-end | Modelagem de dados, Codificação SQL e Otimização de Consultas | Aplicações Android | Criação de API's RESTful
 
 ## Tecnologias:
 
